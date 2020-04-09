@@ -1,0 +1,26 @@
+{
+  "name": "backend-tienda-de-moviles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antony0110/backend-Tienda-de-Moviles.git"
+  },
+  "author": "antony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antony0110/backend-Tienda-de-Moviles/issues"
+  },
+  "homepage": "https://github.com/antony0110/backend-Tienda-de-Moviles#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "node": "^13.12.0",
+    "sequelize": "^5.21.6",
+    "sequelize-cli": "^5.5.1"
+  }
+}
