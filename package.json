@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/antony0110/backend-Tienda-de-Moviles#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql2": "^2.1.0",
     "node": "^13.12.0",
     "sequelize": "^5.21.6",
